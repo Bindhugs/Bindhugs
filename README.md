@@ -22,6 +22,5 @@ AIML Engineering Student (4th Semester)
 - Deep Learning
 - NLP
 
-## Contact
-LinkedIn: 
+## Contact 
 Email: b6243451@gmail.com
