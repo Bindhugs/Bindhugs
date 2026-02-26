@@ -9,8 +9,7 @@ AIML Engineering Student (4th Semester)
 
 ## Skills
 - Python
-- Pandas
-- NumPy
+- C programming
 - Machine Learning Basics
 
 ## Projects
