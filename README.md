@@ -11,6 +11,7 @@ AIML Engineering Student (4th Semester)
 - Python
 - C programming
 - Machine Learning Basics
+- Learning Git and Github
 
 ## Projects
 - Spam Email Classifier (coming soon)
